@@ -52,7 +52,7 @@ Her işlem onaylanır
 
 NASIL KULLANILIR:
 
-İndirin (Genelde indirilenler klasöründe olur) "https://github.com/yusufbaran11/AkilliTahtaHizlandirici/archive/refs/heads/1.0---Son-S%C3%BCr%C3%BCm.zip"
+İndirin (Genelde indirilenler klasöründe olur) "https://github.com/yusufbaran11/AkilliTahtaHizlandirici/archive/refs/heads/main.zip"
 
 Çift tıklayın (bazı işlemler için "Yönetici olarak çalıştır")
 
