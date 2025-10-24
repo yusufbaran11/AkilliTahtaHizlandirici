@@ -1,4 +1,4 @@
-# AkilliTahtaHizlandirici
+# YmY's Windows Debloater and Optimizer
 
 AKILLI TAHTA HIZLANDIRICI - v1.0
 
