@@ -1,69 +1,139 @@
 # YmY's Windows Debloater and Optimizer
 
-AKILLI TAHTA HIZLANDIRICI - v1.0
+WINDOWS DEBLOATER & OPTIMIZER v1.1
 
-İşte süper gelişmiş, menülü, profesyonel optimizasyon sistemi! 🚀
+⚡ Windows Debloater & Optimizer Nedir?
 
-ÖZELLİKLER:
+Bu proje, Windows işletim sisteminizi gereksiz dosyalardan, arka plan servislerinden ve gizlilik ihlallerine yol açan telemetri özelliklerinden arındırarak sistem performansını ve yanıt süresini önemli ölçüde artırmayı amaçlayan kapsamlı bir toplu iş (Batch/CMD) betiğidir.
 
-✅ 9 Farklı Mod:
+Tek bir menü üzerinden erişilebilen çeşitli temizlik, optimizasyon ve sistem bilgisi araçlarını bir araya getirir.
 
-Hızlı Temizlik (30 saniye) - Her ders sonu
+✨ Temel Özellikler
 
-Derin Temizlik (2 dakika) - Haftalık
+Betik, aşağıdaki ana menü seçeneklerini sunar:
 
-Tam Optimizasyon (5 dakika) - Aylık
+Menü Seçeneği
 
-Otomatik Mod - Hepsini sırayla
+İşlev
 
-Sistem Bilgisi - RAM, CPU, Disk kontrolü
+Süre
 
-Başlangıç Programları Yönetimi
+Yönetici Yetkisi Gerekir mi?
 
-Gereksiz Servisler Durdurma
+[1] HIZLI TEMİZLİK
 
-Tarayıcı Önbellek Temizleme
+Günlük kullanım için geçici dosyaları, DNS önbelleğini temizler, RAM'i ve Geri Dönüşüm Kutusu'nu optimize eder.
 
-Yardım ve Bilgi
+~30 sn
 
-✅ Gelişmiş Özellikler:
+Hayır
 
-Renkli ve kullanıcı dostu menü
+[2] DERİN TEMİZLİK
 
-İlerleme göstergesi her adımda
+Kapsamlı temizlik: Windows Update önbelleği, hata raporları, log dosyaları ve tarayıcı önbellekleri. Disk alanı kazanmanıza yardımcı olur.
 
-Hata kontrolü ve yetki kontrolü
+~2 dk
 
-Sistem bilgisi gösterme
+Hayır
 
-Otomatik yeniden başlatma seçeneği
+[3] TAM OPTİMİZASYON
 
-Detaylı yardım bölümü
+Maksimum performans için sistem ayarlarını ve servisleri (Telemetri, Superfetch, Windows Search) kalıcı olarak optimize eder.
 
-✅ Güvenlik:
+~3-4 dk
 
-Veri kaybı yok
+Evet
 
-Sadece gereksiz dosyaları temizler
+[4] OTOMATİK MOD
 
-Yönetici yetkisi kontrolü
+Hızlı, Derin ve Tam Optimizasyon işlemlerini sırasıyla otomatik olarak çalıştırır.
 
-Her işlem onaylanır
+~6-8 dk
 
-NASIL KULLANILIR:
+Evet
 
-İndirin (Genelde indirilenler klasöründe olur) "https://github.com/yusufbaran11/AkilliTahtaHizlandirici/archive/refs/heads/main.zip"
+[5] SİSTEM BİLGİSİ
 
-Çift tıklayın (bazı işlemler için "Yönetici olarak çalıştır")
+İşlemci, RAM, Disk ve Sistem Açılış Zamanı (Uptime) gibi temel sistem bilgilerini görüntüler.
 
-Menüden istediğiniz işlemi seçin
+Anında
 
-ÖNERİLEN KULLANIM:
+Hayır
 
-Her gün (ders sonu): Seçenek 1 - Hızlı Temizlik
+[6] BAŞLANGIÇ YÖNETİMİ
 
-Her hafta (Pazartesi): Seçenek 2 - Derin Temizlik
+Programları devre dışı bırakmak için Windows Görev Yöneticisi'ni açar.
 
-Her ay: Seçenek 3 - Tam Optimizasyon (yönetici olarak)
+Anında
 
-Bu script çok daha güçlü ve %300-400 performans artışı sağlayabilir! Denemek ister misiniz?
+Hayır
+
+[7] GEREKSİZ SERVİSLERİ DURDUR
+
+Superfetch/SysMain, Windows Search ve Remote Registry gibi servisleri durdurur ve devre dışı bırakır.
+
+~10 sn
+
+Evet
+
+[8] TARAYICI ÖNBELLEK TEMİZLEME
+
+Chrome, Firefox, Edge ve Internet Explorer önbelleklerini derinlemesine temizler.
+
+~1 dk
+
+Hayır
+
+⚠️ Önemli Uyarılar
+
+Yönetici Yetkisi (ADMIN) Gereksinimi: TAM OPTİMİZASYON ve OTOMATİK MOD seçenekleri, sistem servislerini ve kayıt defteri (Registry) ayarlarını değiştirdiği için Yönetici olarak çalıştırılmalıdır. Aksi takdirde işlemler başarısız olur.
+
+Yeniden Başlatma ZORUNLUDUR: TAM OPTİMİZASYON işlemi sonrasında yapılan değişikliklerin tam olarak etkili olabilmesi için sistemin yeniden başlatılması gerekmektedir. Betik, bu işlemi otomatik olarak teklif eder.
+
+Veri Kaybı YOK: Betik yalnızca geçici, önbellek ve log dosyalarını siler; kişisel verilerinize (belgeleriniz, fotoğraflarınız vb.) dokunmaz.
+
+⚙️ Kullanım
+
+Depoyu klonlayın veya YmY's-WDO.bat dosyasını indirin.
+
+Dosyaya sağ tıklayın ve "Yönetici olarak çalıştır" seçeneği ile başlatın. (Tam Optimizasyon için şarttır.)
+
+Açılan menüden yapmak istediğiniz işlemi seçin ve talimatları takip edin.
+
+================================================================================
+                  WINDOWS DEBLOATER & OPTIMIZER v1.1
+================================================================================
+
+  [1] HIZLI TEMIZLIK (30 saniye)
+  [2] DERIN TEMIZLIK (2 dakika)
+  [3] TAM OPTIMIZASYON (3-4 dakika)
+  ...
+================================================================================
+Seciminiz (0-9):
+
+
+📅 Tavsiye Edilen Kullanım Sıklığı
+
+İşlem
+
+Sıklık
+
+Hızlı Temizlik
+
+Günlük
+
+Derin Temizlik
+
+Haftada 1 Kez
+
+Tam Optimizasyon
+
+Ayda 1 Kez
+
+🤝 Katkıda Bulunma
+
+Geliştirmeye katkıda bulunmak, hata bildirmek veya yeni özellikler önermek isterseniz lütfen bir "Issue" açmaktan veya "Pull Request" göndermekten çekinmeyin.
+
+📄 Lisans
+
+Bu proje, MIT Lisansı altında yayımlanmıştır. Daha fazla bilgi için LICENSE dosyasına bakınız (Eğer bir lisans dosyası oluşturursanız).
